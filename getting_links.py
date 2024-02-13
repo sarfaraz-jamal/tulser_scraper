@@ -44,9 +44,11 @@ def scroll_down(driver):
         last_height = new_height
         time.sleep(3)
 
+scroll_down(driver)
+
 links = []
 
-for i in range(10, 20):
+for i in range(100, 132):
     tile = driver.find_elements(By.CSS_SELECTOR, "a.link")[i+3]  
     tile.click()
     time.sleep(40)  # Adjust this wait time as needed
