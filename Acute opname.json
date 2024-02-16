@@ -1,0 +1,71 @@
+{
+    "Acute opname": {
+        "Triage tijdens avond, nacht, en weekenddiensten": {
+            "Neem de telefonische aanmelding via de SEH/ HAP aan.": {
+                "Voorbereiding.": [],
+                "Noteer direct de naam, geboortedatum, en het BSN-nummer van de patiënt als het ziekenhuis belt voor een triage op het invulformulier triage.": [],
+                "Check via het BSN-nummer of de patiënt een WLZ-indicatie heeft (in ONS).": [
+                    "Download eventueel deze hulpkaart om de taak uit te voeren in ONS.",
+                    "Tip: bij WLZ-indicatie volgt tot op heden geen opname en bij afwezigheid van verzekering of een verlopen verzekering is opname niet mogelijk. Check in ONS of de patiënt verzekerd is door middel van de COV-controle.",
+                    "Tip: De wizard dwingt je om op één manier een dossier aan te maken, je moet één extra stap zetten als je het ZZP wilt checken."
+                ],
+                "Vraag naar de reden van opname en de cognitie van de patiënt, de naam van de arts, en eventueel het kamernummer van de patiënt.": [],
+                "Check aan de hand van de exclusiecriteria of een opname wel/ niet kan plaatsvinden.": [
+                    "Exclusiecriteria zijn:"
+                ],
+                "Vraag het SEH-verslag en het actueel medicatie overzicht (AMO) alvast klaar te leggen.": []
+            },
+            "Bereid triage voor op de SEH.": {
+                "Rijd naar de spoedeisende hulp (SEH) en parkeer je voertuig voor de SEH.": [],
+                "Loop via de huisartsenpost (HAP) naar binnen.": [],
+                "Meld je bij de balie.": [],
+                "Vraag naar het SEH-verslag en de AMO als dit nog niet klaar ligt": []
+            },
+            "Voer triage uit bij de patiënt.": {
+                "Ga naar de patiënt (en eventueel mantelzorger) toe om kennis te maken.": [],
+                "Vraag wie de eerste contactpersoon is.": [
+                    "Als bijvoorbeeld een zoon/ dochter erbij zit vraag je of hij/ zij de eerste contactpersoon is."
+                ],
+                "Vraag of er allergieën zijn waar we van af moeten weten.": [],
+                "Vraag naar de thuissituatie.": [],
+                "Vraag eventueel of de patiënt het medisch beleid weet en wilt zeggen, zo niet: dan bespreek je dit de volgende dag met de arts.": [],
+                "Geef duidelijk aan dat de patiënt altijd terug naar huis gaat (na de revalidatie).": [],
+                "Vertel iets over de Schakel.": [],
+                "Vertel voordat je met de arts gaat praten altijd aan de patiënt wat je verwachtingen van de uitkomst zijn.": [],
+                "Hulpvragen": [
+                    "Wat is er gebeurd; verhaal van de patiënt (met eventueel aanvulling van de mantelzorg)",
+                    "☐  Wat wilt de patiënt?",
+                    "☐  Kan de patiënt zelfstandig lopen? Kan de patiënt zelfstandig naar het toilet?",
+                    "☐  Reageert de patiënt adequaat?",
+                    "☐  Zou de patiënt met thuiszorg terug naar huis kunnen?",
+                    "☐  Is er een indicatie aanvraag gedaan voor een ZZP?",
+                    "☐  Bent u onder behandeling van een (medisch) specialist?",
+                    "☐  Klinische blik: kijken – luisteren – voelen",
+                    "☐  Zijn er de laatste week veranderingen opgetreden in het gedrag van de patiënt?",
+                    "☐  Schat de patiënt en mantelzorg in dat de patiënt na een revalidatie opname terug naar huis kan?",
+                    "☐  Schat ik als medewerker van De Schakel in dat de patiënt na een revalidatie opname weer terug naar huis kan?"
+                ]
+            },
+            "Rond de triage af.": {
+                "Zoek een lege ruimte, lees alles door en bel vervolgens de dienstdoende arts (GeriCall).": [],
+                "Bespreek je bevindingen met de arts.": [],
+                "Maak samen een beslissing tot opname (of niet).": [],
+                "Vraag naar het e-mail adres van de dd arts.": [],
+                "Ga terug naar de patiënt om het nieuws te vertellen.": [
+                    "Bij opname:",
+                    "Bij afwijzing:"
+                ],
+                "Geef bij de SEH-balie aan of je de patiënt gaat opnemen.": []
+            },
+            "Prepareer komst van de patiënt op de Schakel.": {
+                "Ga terug naar Vitala+.": [],
+                "Zorg ervoor dat de kamer van de patiënt gereed is.": [],
+                "Stuur het AMO en het SEH-verslag naar de dd arts SOG/ GeriCall zodat ze de informatie in ONS en Ysis kunnen zetten.": [],
+                "Stuur alle disciplines een mail bij opname van de patiënt. ": [],
+                "Open ONS en neem de cliënt nieuw in zorg.": [],
+                "Open ONS en begin met het verwerken van de opgehaalde informatie.": [],
+                "Archiveer het invulformulier triage bij afronding.": []
+            }
+        }
+    }
+}

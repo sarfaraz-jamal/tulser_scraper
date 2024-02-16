@@ -1,0 +1,158 @@
+{
+    "Begeleiden bij toiletgang (AZB)": {
+        "Voorbereiding toiletgang": {
+            "Bereid toiletgang voor": {
+                "Verzamel de benodigdheden en leg deze binnen handbereik van het toilet.": [
+                    " ",
+                    "Zo nodig:",
+                    "Gebruik indien aanwezig en gewenst: opklapbare beugels of een toiletverhoger."
+                ],
+                "Pas handhygiëne toe.": []
+            }
+        },
+        "Begeleiden naar toilet": {
+            "Begeleid naar het toilet.": {
+                "Begeleid de patiënt naar het toilet en ondersteun zo nodig bij het lopen.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=7bf2f1c5-7f59-48a3-bf7b-4109a15e5d97",
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=44b8fe61-30ce-45e5-b1c3-eef17de7e57a",
+                    "Ga naar de taakondersteuning loopbegeleiding voor het begeleiden bij lopen.",
+                    "",
+                    ""
+                ],
+                "Laat de patiënt recht voor het toilet gaan staan en vraag of hij zich omdraait.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=7f8f3c23-3ed8-491c-95bc-3d882f921525",
+                    "Zorg dat de patiënt het toilet voelt tegen de achterkant van de benen.",
+                    ""
+                ],
+                "Vraag de patiënt de onderkleding uit te trekken.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=eca94915-993d-415f-aa77-1a1a8ef0774b",
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=370d92c8-c0e5-4fe7-a2dc-c1e8cdb0a1ba",
+                    "Let op:Draag handschoenen wanneer de handen in contact (kunnen) komen met bloed, lichaamsvochten (urine, feces, braaksel etc.), slijmvliezen, wondjes, of materialen die hiermee in aanraking zijn geweest.",
+                    "Ga naar de taakondersteuning voor incontinentiezorg voor het verwijderen en aanbrengen van incontinentiemateriaal. ",
+                    " ",
+                    ""
+                ],
+                "Laat de patiënt op het toilet zitten, of help hierbij.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=50d813f6-9662-4254-a498-1fe2135fe93d",
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=b5136d10-e154-4290-9a88-c54fcda5e597",
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=6110aff5-0297-4afd-9fc7-d4dd37601951",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        },
+        "Helpen bij toiletgang": {
+            "Help bij de toiletgang.": {
+                "Geef de patiënt de tijd om te urineren en/of defeceren.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=d693e8bd-4ad5-405b-9c84-a57151b770e2",
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=9e83fca8-5c09-4c79-8cd9-91f381b33dfe",
+                    "Bedenk dat de meeste mensen het prettig vinden om alleen te zijn tijdens toiletbezoek. Dit kan echter niet bij iedereen. Vraag dit even na bij je collega.",
+                    "",
+                    ""
+                ],
+                "Trek handschoenen aan.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=7163eae8-ea86-49d6-8f5f-53a0dd1ef0f9",
+                    ""
+                ],
+                "Laat de patiënt gaan staan of help hierbij. ": [],
+                "Laat de patiënt gebruikmaken van de toiletbeugels naast het toilet.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=84d2c040-75cd-449a-8158-0853cf3b42f5",
+                    ""
+                ],
+                "Laat de patiënt in een licht voorovergebogen houding staan. ": [],
+                "Help de patiënt bij het schoon- en droogmaken van de schaamstreek en zo nodig de bilstreek.  ": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=ddad29a1-d16a-4d75-b68e-5fa4a6a1a3aa",
+                    "Gebruik hierbij (vochtig) toiletpapier of een disposable washandje.",
+                    "",
+                    " ",
+                    " "
+                ],
+                "Laat de patiënt, indien nodig, schoon incontinentiemateriaal aanbrengen.": [
+                    "Gebruik voor het aanbrengen van pants of inleggers de taakondersteuning: Verschoon incontinentiemateriaal."
+                ],
+                "Laat de patiënt de onderkleding weer optrekken of help hierbij.": []
+            }
+        },
+        "Verschoon incontinentiemateriaal": {
+            "Bereid voor": {
+                "Vraag wat de patiënt zelf kan doen.": [
+                    "Vraag de patiënt het incontinentiemateriaal klaar te leggen."
+                ],
+                "Pas handhygiëne toe.": [],
+                "Trek handschoenen aan.": []
+            },
+            "Signaleer smetplekken": {
+                "Signaleer mogelijke smetplekken.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=579d5d5e-d037-41c8-bae0-c8325eeda61a",
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=26367c91-1118-4701-81fa-c1afb2475cd4",
+                    " Roodheid:",
+                    "",
+                    "Vochtletsel: ",
+                    ""
+                ]
+            },
+            "Gebruik inleggers": {
+                "Zorg dat de patiënt stevig staat of zich aan steunen kan vasthouden.": [],
+                "Vraag de patiënt de onderkleding uit te trekken of help daarbij.": [
+                    "Gebruik zo nodig een klem of knijper om bovenkleding naar boven te vouwen en te fixeren."
+                ],
+                "Help de patiënt het incontinentiemateriaal te verwijderen.": [],
+                "Gooi het incontinentiemateriaal in de afvalbak.": [],
+                "Help de patiënt de schaamstreek en zo nodig bilstreek te wassen en te drogen. ": [],
+                "Help de patiënt een schone inlegger aan te brengen. ": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=26d64b44-efc7-4941-94d8-a5d3610efa5a",
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=b6f3513f-8d99-41ba-ac1f-4b7e9bee53a0",
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=1a33e6b7-b0dd-4bff-8dff-c8e6e413f289",
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=cde28899-27b1-459d-b5ae-c3d2b0bc8699",
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=852e69b0-643b-40e1-98a2-76ea358def05",
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=3988df64-e0c2-4f1a-af8e-26dab22ba1ae",
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=f6385b79-bbf2-4509-9513-d0e09a39afa7",
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=4ce9e5af-f911-43a7-b041-28d7dd3c8769",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "Trek de handschoenen uit.": [],
+                "Pas handhygiëne toe.": [],
+                "Noteer eventuele bijzonderheden in het zorgdossier. ": [
+                    "Denk bijvoorbeeld aan huidletsel. "
+                ]
+            }
+        },
+        "Afronden toiletgang": {
+            "Rond de toiletgang af.": {
+                "Begeleid de patiënt naar de wastafel en laat deze de handen wassen.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=57296270-6b20-4565-973a-77082ad58a73",
+                    ""
+                ],
+                "Begeleid de patiënt naar de gewenste plek.": [
+                    "Bied zo nodig loopbegeleiding."
+                ],
+                "Ruim alle materialen op.": [
+                    "Let op: ",
+                    "Gooi swash doekjes in de afvalpak en niet in het toilet of in de verpulveraar machine!"
+                ],
+                "Doe de handschoenen uit.": [
+                    "Zie hiervoor de taakondersteuning over niet-steriele handschoenen."
+                ],
+                "Pas handhygiëne toe.": [
+                    "Zie hiervoor de taakondersteuning over handhygiëne."
+                ],
+                "Noteer bijzonderheden in het EPD.": [
+                    "Denk aan: forse incontinentie van urine of ontlasting."
+                ]
+            }
+        },
+        "Colofon": {
+            "Informatie over dit object": {
+                "Mede mogelijk gemaakt door:": []
+            }
+        }
+    }
+}

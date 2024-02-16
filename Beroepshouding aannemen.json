@@ -1,0 +1,96 @@
+{
+    "Beroepshouding aannemen": {
+        "Klantgerichtheid": {
+            "Maak een klik.": {
+                "Maak een klik met cliënten/bewoners/familie/je collega.": [
+                    "Kijk aan en begroet",
+                    "Luister en vraag door",
+                    "Informeer en beantwoord vragen",
+                    "Kom met oplossingen"
+                ]
+            },
+            "Wees klantgericht.": {
+                "Begroet de mensen die je tegenkomt met een glimlach.": [
+                    "deze kan dan weg: staat al in klik"
+                ],
+                "Vertel de cliënt altijd dat je weggaat en wanneer je weer terugkomt.": [],
+                "Geef antwoord op vragen.": [],
+                "Vraag (proactief) aan een cliënt wat hij nodig heeft of wat je kunt doen.": [],
+                "Vertel wat je doet, doe wat je zegt.": [],
+                "Vertel wat je komt doen.": [],
+                "Heb oog voor de privacy van de cliënt.": []
+            }
+        },
+        "Positieve houding": {
+            "Toon respect.": {
+                "Begroet altijd vriendelijk.": [
+                    "Laat de ander niet merken als jij een slechte dag hebt."
+                ],
+                "Accepteer verschillen.": [
+                    "Voorbeelden:"
+                ],
+                "Neem de ander serieus.": [
+                    "Voorbeelden:"
+                ],
+                "Stem je tempo af op de ander.": [
+                    "Voorbeeld:"
+                ]
+            },
+            "Toon empathie.": {
+                "Toon interesse in de gedachten en gevoelens van de ander.": [
+                    "Voorbeelden:"
+                ],
+                "Stel vragen die aansluiten bij wat de ander heeft gezegd.": [
+                    "Voorbeelden:"
+                ],
+                "Vraag naar de gevoelens van de ander.": [
+                    "Voorbeelden: "
+                ]
+            },
+            "Wees echt.": {
+                "Wees jezelf.": [
+                    "Laat zien wat je denkt en voelt. Daarmee stimuleer je de ander ook te laten zien wat hij denkt en voelt.",
+                    "Voorbeelden:"
+                ],
+                "Wees eerlijk.": [
+                    "Voorbeelden:"
+                ],
+                "Zorg dat je verbale en non-verbale gedrag overeen komen.": [
+                    "Voorbeelden:"
+                ]
+            },
+            "Do's en dont's": {
+                "Do's en dont's bij een positieve houding.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=cf729dec-d273-4b30-b1af-9b6248f69828",
+                    ""
+                ]
+            }
+        },
+        "Voorlichting": {
+            "Geef voorlichting.": {
+                "Check het dossier van de cliënt op eventuele aandachtspunten. ": [],
+                "Maak contact met de cliënt.": [],
+                "Check of de cliënt open staat voor (nieuwe) informatie.": [],
+                "Leg de cliënt uit wat je gaat doen. ": [
+                    "Zo weet de cliënt beter te beoordelen of en hoe hij kan meewerken en dus meer gemotiveerd/ gestimuleerd wordt om zelf mee te helpen. Verder kan de cliënt ook een betere werkwijze en/of hulpmiddel voorstellen."
+                ],
+                "Informeer de cliënt (en/of familie) over het doel, de werkwijze, en de duur van een specifieke handeling. ": [
+                    "Bijvoorbeeld: de reden voor het verwisselen van een drain of de manier van het verwisselen van een drain. "
+                ],
+                "Houd de houding en het gedrag van de cliënt in de gaten.": [
+                    "Observeer het bewustzijn van de cliënt en betrek eventueel familie bij veranderingen. "
+                ]
+            }
+        },
+        "Zelfzorg": {
+            "Stimuleer zelfzorg.": {
+                "Vraag cliënt of familie wat de cliënt zelf kan doen.": [],
+                "Stimuleer de cliënt om zelf te doen wat hij wil/kan.": [],
+                "Laat de cliënt zoveel mogelijk zelf bepalen (eigen regie) hoe hij wil leven en welke ondersteuning/zorg hij daarbij nodig heeft.": [],
+                "Ondersteun de cliënt bij het vinden van de benodigde hulpbronnen.": [],
+                "Moedig de cliënt aan zelf besluiten te nemen.": [],
+                "Stem adviezen af met de cliënt en houd rekening met zelfzorg (wat kan en wil hij zelf).": []
+            }
+        }
+    }
+}

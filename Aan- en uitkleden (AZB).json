@@ -1,0 +1,49 @@
+{
+    "Aan- en uitkleden (AZB)": {
+        "Aan- en uitkleden zittende patiënt (die zelfstandig of met rollator kan lopen)": {
+            "Bereid uit- en aankleden voor": {
+                "Vertel de patiënt wat je gaat doen.": [
+                    "Indien er sprake is van een aangedane zijde bij de patiënt, bijvoorbeeld een breuk, kneuzing of verlamming:"
+                ],
+                "Sluit ramen en deuren: zo krijgt de patiënt het niet koud.": [],
+                "Zet zo nodig de verwarming wat harder.": [],
+                "Leg (schone) kleding klaar in de volgorde van aankleden. ": [],
+                "Leg een handdoek klaar.": [],
+                "Pas handhygiëne toe.": []
+            },
+            "Help met uitkleden": {
+                "Vraag wat de patiënt zelf kan doen.": [],
+                "Trek de bovenkleding uit.": [],
+                "Trek de onderkleding uit.": [],
+                "Leg het vuile wasgoed in de wasmand. ": [],
+                "Pas handhygiëne toe.": []
+            },
+            "Help met aankleden bovenlichaam": {
+                "Laat de patiënt de armen naar voren steken.": [],
+                "Schuif het schone kledingstuk met de mouwen over de handen en daarna over het hoofd.": [],
+                "Vraag de patiënt iets naar voren te buigen.": [],
+                "Trek het kledingstuk over de buik en rug naar beneden. ": [
+                    "Zorg dat alle kleding gladgetrokken wordt om drukplekken te voorkomen."
+                ],
+                "Maak de sluitingen dicht of vraag de patiënt dit zelf te doen.": []
+            },
+            "Help met aankleden onderlichaam": {
+                "Neem het schone kledingstuk en rol de pijpen op als dit een broek is.": [],
+                "Laat beide voeten in de pijpen steken en schuif de broek voor zover mogelijk naar boven.": [],
+                "Vraag de patiënt de billen even op te wippen (door zich op te drukken aan de leuningen van de stoel), haal de handdoek weg en schuif het kledingstuk verder omhoog.": [
+                    "Als de cliënt dit niet zelf kan, check het zorgplan en vraag om assistentie."
+                ],
+                "Maak eventuele sluitingen vast.": [],
+                "Controleer of de kleding recht/glad zit.": [],
+                "Trek de patiënt de sokken en schoenen aan.": [
+                    "Let bij het aandoen van de sokken en schoenen op wondjes en drukplekken."
+                ],
+                "Vraag of alles naar wens is verlopen en help de patiënt in een prettige houding.": [],
+                "Zet bijzonderheden in het EPD.": [
+                    "Denk bijvoorbeeld aan: wondjes en drukplekken.",
+                    "Informeer ook collega's hierover."
+                ]
+            }
+        }
+    }
+}

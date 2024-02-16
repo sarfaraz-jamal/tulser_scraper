@@ -1,0 +1,98 @@
+{
+    "Aan- en uitkleden (AWW)": {
+        "Aan- en uitkleden zittende cliënt (die zelfstandig of met rollator kan lopen)": {
+            "Bereid uit- en aankleden voor": {
+                "Vertel de cliënt wat je gaat doen": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=a1242144-c209-4ec1-99d2-8e2803618a32",
+                    ""
+                ],
+                "Sluit ramen en deuren: zo krijgt de cliënt het niet koud.": [],
+                "Zet zo nodig de verwarming wat harder.": [],
+                "Leg (schone) kleding klaar in de volgorde van aankleden. ": [
+                    "Vraag de cliënt wat hij/zij wil dragen. Neem zo mogelijk ruime kleding: die is makkelijker uit en aan te trekken."
+                ],
+                "Leg een handdoek klaar.": [],
+                "Pas handhygiëne toe.": []
+            },
+            "Help met uitkleden": {
+                "Vraag de cliënt wat hij/zij zelf kan doen.": [],
+                "Maak de sluitingen van de bovenkleding los of vraag de cliënt dit zelf te doen.": [],
+                "Schuif of rol het kledingstuk (t-shirt of sweater) zo ver mogelijk richting nek.": [],
+                "Vraag de cliënt het hoofd iets op te tillen en de armen naar voren te houden. ": [
+                    "Als dit niet lukt: houd een arm van de cliënt vast."
+                ],
+                "Trek het kledingstuk langs de rug naar boven.": [],
+                "Trek de kleding over het hoofd heen en daarna over de armen. ": [],
+                "Maak sluitingen van broek of rok los of vraag de cliënt dit zelf te doen.": [],
+                "Vraag de cliënt te gaan staan en schuif het kledingstuk naar beneden. ": [
+                    "Als de cliënt dit niet zelf kan: gebruik dan de actieve tillift. Check hiervoor het zorgplan.",
+                    "Ga voor meer informatie over het gebruik van de tillift naar de tegel: Transfers met tilliften. "
+                ],
+                "Verwijder zo nodig het incontinentiemateriaal en vervang dit meteen.": [
+                    "Ga voor meer informatie over het verwisselen van incontinentiemateriaal naar de tegel 'Incontinentiezorg'."
+                ],
+                "Laat de cliënt opnieuw zitten. ": [
+                    "Als de cliënt naar bed gaat laat de cliënt op het bed plaatsnemen trek de kleding verder uit."
+                ],
+                "Trek de kleding (broek en slip tegelijkertijd) over de voeten uit. ": [
+                    "Leg zo nodig even een handdoek onder de billen of over de schaamstreek."
+                ],
+                "Leg het vuile wasgoed in de wasmand. ": [],
+                "Pas handhygiëne toe.": []
+            },
+            "Help met aankleden bovenlichaam": {
+                "Laat de cliënt de armen naar voren steken.": [],
+                "Schuif het schone kledingstuk met de mouwen over de handen en daarna over het hoofd.": [],
+                "Vraag de cliënt iets naar voren te buigen.": [],
+                "Trek het kledingstuk over de buik en rug naar beneden. ": [
+                    "Zorg dat alle kleding gladgetrokken wordt om drukplekken te voorkomen."
+                ],
+                "Maak de sluitingen dicht of vraag de cliënt dit zelf te doen.": []
+            },
+            "Kleed bovenlichaam aan bij aangedane arm": {
+                "Begin bij de kant met de aangedane arm. ": [
+                    "Handel als volgt als de cliënt geen pijn heeft en de arm niet kan bewegen:"
+                ],
+                "Breng de mouw over de arm aan. ": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=8d354a3b-582b-445d-b13a-fa68c81d7214",
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=1957c6aa-59eb-46d2-bef7-4808e33e7a28",
+                    "Sweater aandoen in zit, spastische arm.",
+                    "",
+                    "Sweater aandoen in zit, afhangende arm.",
+                    ""
+                ],
+                "Vraag de cliënt iets naar voren te komen en breng het kledingstuk achterlangs over de rug van de cliënt. Zorg dat het mouwpad van het kledingstuk zo laag mogelijk zit, zodat de tweede arm er makkelijk in kan.": [],
+                "Vraag de cliënt de arm in de mouw te steken of help daarbij.": [],
+                "Trek de achterzijde van het kledingstuk omhoog tot over de schouders.": [],
+                "Maak de sluitingen dicht, of vraag de cliënt dit te doen.": []
+            },
+            "Help met aankleden onderlichaam": {
+                "Neem het schone kledingstuk en rol de pijpen op als dit een broek is.": [],
+                "Laat beide voeten in de pijpen steken en schuif de broek voor zover mogelijk naar boven.": [],
+                "Vraag de cliënt de billen even op te wippen (door zich op te drukken aan de leuningen van de stoel), haal de handdoek weg en schuif het kledingstuk verder omhoog.": [
+                    "Als de cliënt dit niet zelf kan gebruik dan de actieve tillift. Check hiervoor het zorgplan"
+                ],
+                "Maak eventuele sluitingen vast.": [],
+                "Controleer of de kleding recht/glad zit.": [],
+                "Trek de cliënt de schoenen aan.": [],
+                "Vraag of alles naar wens is verlopen en help de cliënt in een prettige houding.": []
+            },
+            "Video's aankleden bovenlichaam": {
+                "Kijk hier voor video's aankleden bovenlichaam": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=8d354a3b-582b-445d-b13a-fa68c81d7214",
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=1957c6aa-59eb-46d2-bef7-4808e33e7a28",
+                    "Video: sweater aandoen bij zittende cliënt met spastische arm:",
+                    "",
+                    " ",
+                    "Video sweater aandoen bij zittende cliënt met afhangende arm:",
+                    ""
+                ]
+            }
+        },
+        "Colofon": {
+            "Informatie over dit object": {
+                "Mede mogelijk gemaakt door:": []
+            }
+        }
+    }
+}

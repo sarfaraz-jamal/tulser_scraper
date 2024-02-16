@@ -1,0 +1,102 @@
+{
+    "Begeleiden bij zelfstandig in en uit bed komen (AZB)": {
+        "Voorbereiden": {
+            "Bereid voor": {
+                "Check altijd eerst het zorgplan van de patiënt. ": [
+                    "Let op:"
+                ],
+                "Kies voor de juiste manier om van lig naar zit of van zit naar lig te komen.": [
+                    "Hier zie je enkele voorbeelden van bewegen binnen de grenzen van het bed:",
+                    "Vertel de patiënt altijd wat je gaat doen. Stimuleer de patiënt zoveel mogelijk zelf te doen."
+                ]
+            }
+        },
+        "Zelfstandig zitten": {
+            "Laat de patiënt zelfstandig op de rand van het bed gaan zitten": {
+                "Laat de patiënt op de zij gaan liggen met de knieën net buiten het bed. De voeten blijven op het matras.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=5d6e6107-b4be-41bd-9b53-0d4646696335",
+                    "Let op: zelfstandig gaan zitten via zijlig mag je niet toepassen bij een patiënt met een nieuwe heup of bij een buik- of borstwond. Neem altijd de leefregels in acht!",
+                    "",
+                    " ",
+                    "Indien er een elektrisch hoofdeinde beschikbaar is:"
+                ],
+                "Laat de patiënt de voeten buiten het matras brengen.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=2c8f7151-8d58-4778-9f37-fd949f0c1c17",
+                    ""
+                ],
+                "Zorg dat de patiënt goed recht gaat zitten. ": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=f833f673-0a1f-4def-b1f3-ec2cc82c8d36",
+                    "Bedenk dat de patiënt duizelig kan zijn. Het duurt soms even voordat het hoofd rechtop komt.",
+                    ""
+                ]
+            }
+        },
+        "Met hulp zitten": {
+            "Ondersteun met zijlig": {
+                "Bereid ondersteunen met zijlig voor.": [
+                    "Let op:",
+                    "Gebruik de zijlig niet bij een nieuwe heup en wel bij een buik- of borstwond.",
+                    " "
+                ],
+                "Kantel de patiënt naar je toe met opgetrokken benen.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=507a1fc7-08ad-4e63-a634-7dc77b7b3f75",
+                    ""
+                ],
+                "Laat de patiënt zich steeds verder opdrukken met zijn bovenste en/of onderliggende arm.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=90658b82-ee24-4a8f-baa4-4a3f3846ecd7",
+                    "Laat de patiënt tegelijkertijd de benen buiten bed schuiven.",
+                    ""
+                ],
+                "Laat de patiënt draaien op een punt ter hoogte van de heupen totdat hij zit.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=41def562-f3dd-4f7f-abb0-818e4babbf8f",
+                    ""
+                ],
+                "Zorg dat de patiënt recht en stevig zit.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=97ccda05-299b-4a65-bf45-be0172542da3",
+                    ""
+                ]
+            },
+            "Video: zijlig": {
+                "Bekijk hier de video: zelfstandig tot zit komen op de rand van het bed via zijlig.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=8693be88-370c-4ec0-92b7-bf0959854c94",
+                    ""
+                ]
+            }
+        },
+        "Zelfstandig liggen": {
+            "Begeleid bij het zelfstandig gaan liggen": {
+                "Zet het bed op de juiste hoogte.    ": [
+                    "De knieholte moet op dezelfde hoogte zijn als het matras. De patiënt kan stabiel zitten met de voeten plat op de vloer. "
+                ],
+                "Laat de patiënt op de juiste plek op de matras zitten (iets boven het midden van het bed). ": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=57ab2970-b447-44d1-8b95-6cf0cfeb7190",
+                    "Te ver naar het voeteneind betekent dat de patiënt later weer hogerop moet gaan komen. Te hoog is ook niet handig, dan moet de patiënt weer zakken in bed.  ",
+                    ""
+                ],
+                "Laat de patiënt de romp draaien richting het voeteneind en eerst één been op het bed plaatsen.": [
+                    "https://tulser.askme.nl//AssetV2/View/tulser/MediaView?asset_id=35a3ae00-3b24-4f2a-8d9f-84e2520f81e8",
+                    " "
+                ],
+                "Laat de patiënt gaan liggen.": [],
+                "Vraag of de patiënt wil worden toegedekt. ": []
+            }
+        },
+        "Met hulp liggen": {
+            "Help met gaan liggen": {
+                "Laat de patiënt op de juiste plek op de matras zitten (iets boven het midden van het bed). ": [
+                    "Te ver naar het voeteneind betekent dat de patiënt later weer hogerop moet gaan komen. Te hoog is ook niet handig. "
+                ],
+                "Ondersteun indien nodig de hakken met je handen en begeleid deze rustig op het bed.  ": [
+                    "De romp draait dan mee. De patiënt zit dan in bed. "
+                ],
+                "Zet de hoofdsteun in de juiste stand.": [],
+                "Vraag of de patiënt wil worden toegedekt.": []
+            }
+        },
+        "Colofon": {
+            "Informatie over dit object": {
+                "Mede mogelijk gemaak door:": []
+            }
+        }
+    }
+}
